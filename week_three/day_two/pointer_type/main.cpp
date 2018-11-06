@@ -15,9 +15,8 @@ int main ()
     double *bpointer;
     bpointer = &b;
 
-
-
     std::cout <<" the memory address of int a is " << &a  << " and the value is " << a << std::endl;
     std::cout <<" the memory address of double b is " << &b  << " and the value is " << b << std::endl;
+    std::cout << " the memory address of name is " << &name << " and the value is " << name << std::endl;
     return 0;
 }
