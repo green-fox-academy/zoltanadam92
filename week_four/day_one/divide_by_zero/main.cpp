@@ -7,7 +7,7 @@ int main() {
     // and prints the result.
     // It should print "fail" if the parameter is 0
     try {
-        int num1;
+        double num1;
         std::cout << "enter a number: " << std::endl;
         std::cin >> num1;
 
