@@ -11,7 +11,7 @@ int main () {
     ifstream theFile("my_file.txt");
     string text;
     while (theFile >> text){
-        cout << text << endl;
+        cout << text << '\n';
 }
 
 return 0;
