@@ -23,6 +23,6 @@ int counter(int count){
         return 1;
     }
     else {
-        return (count + counter(count-1));
+        return (count * counter(count-1));
     }
 }
