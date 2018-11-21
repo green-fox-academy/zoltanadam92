@@ -1,0 +1,3 @@
+C:/Users/bpzol/Documents/Greenfox/zoltanadam92/week_five/day_three/zoo/cmake-build-debug/CMakeFiles/zoo.dir
+C:/Users/bpzol/Documents/Greenfox/zoltanadam92/week_five/day_three/zoo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bpzol/Documents/Greenfox/zoltanadam92/week_five/day_three/zoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
